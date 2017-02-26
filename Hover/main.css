@@ -1,0 +1,12 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+}
+
+div:hover{
+    background-color: pink;
+    cursor: pointer;
+}
+    

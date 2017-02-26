@@ -1,0 +1,21 @@
+html{
+    background-color: pink;
+}
+
+
+body{
+    width: 60%;
+    border: solid chartreuse 10px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+img{
+    border-radius: 100%;
+    border: solid aquamarine medium;
+    display: block;
+    margin: 0 auto;
+}
+p{
+    font-size: 10;
+}
